@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "movie_mockup",
+            "connectString": "postgres://octdfyoa:dLpyZKAliRBUngveqmcWWtLuy24CPosc@suleiman.db.elephantsql.com/octdfyoa"
+        }
+    ]
+}
